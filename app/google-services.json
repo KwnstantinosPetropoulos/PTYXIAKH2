@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950865488296",
+    "firebase_url": "https://ptyxiakh-97ed4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ptyxiakh-97ed4",
+    "storage_bucket": "ptyxiakh-97ed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950865488296:android:35fd9c51d1b91c12ed959d",
+        "android_client_info": {
+          "package_name": "com.example.ptyxiakh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950865488296-ljil62nb73930d63av9cchmrte95pqh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ptyxiakh",
+            "certificate_hash": "08f57bac7305a655e2e11f68351ad85208be1ee9"
+          }
+        },
+        {
+          "client_id": "950865488296-91rk406nvg8273gp5q5eds95sfl3lpjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb73RxFs1O76JCYGC7kVG1AEPZEmTu-bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950865488296-91rk406nvg8273gp5q5eds95sfl3lpjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
